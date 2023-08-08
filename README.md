@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently Mastering **React, Python, Java-Script**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate on **Open Source Projects, Commissioned Projects, Internships.**
 
 - 💬 Ask me about **react, python, java-script, html, css, sass, ui/ux**
 
